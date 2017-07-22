@@ -9,4 +9,5 @@ log/*.log
 log/*.log.[0-9]
 assets/photoshop/
 assets/videos/
+assets/images/*
 !assets/videos/tour_*.mp4
